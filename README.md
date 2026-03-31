@@ -67,9 +67,9 @@ Set up professional profiles on GitHub, LinkedIn, Stack Overflow, and Kaggle.
 
 | Platform | Profile |
 |:---|:---|
-| GitHub | [RachitSrivastava96](https://github.com/hitansh25bce11059-lang) |
-| LinkedIn | [Rachit Srivastava](https://www.linkedin.com/in/hitansh-arya-0728533bb/) |
-| Stack Overflow | [Rachit Srivastava](https://stackoverflow.com/users/32568440/hitansh-arya) |
+| GitHub | [hitansh25bce11059-lang](https://github.com/hitansh25bce11059-lang) |
+| LinkedIn | [Hitansh Arya](https://www.linkedin.com/in/hitansh-arya-0728533bb/) |
+| Stack Overflow | [Hitansh Arya](https://stackoverflow.com/users/32568440/hitansh-arya) |
 
 <br>
 
